@@ -122,7 +122,10 @@ if  choice.upper() == "YES":
 		print("z = " + str(z)) 
 else:
 	print()
-	print("The end")
+	print("The end
+	
+print("Do you want to continue? yes/no: ") 
+choice = input( 
 	
 
 
